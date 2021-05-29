@@ -1,0 +1,4 @@
+requests
+fake-useragent
+slack_sdk
+pymsteams

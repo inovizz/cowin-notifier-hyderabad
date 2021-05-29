@@ -1,0 +1,5 @@
+URL_pc = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByPin?pincode={}&date={}"
+URL_city = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/calendarByDistrict?district_id={}&date={}"
+TEAMS_WEBHOOK = "WEBHOOK_URL_FOR_MS_TEAMS"
+SLACK_WEBHOOK = "WEBHOOK_URL_FOR_SLACK"
+NUM_OF_DAYS = 3
