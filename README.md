@@ -44,4 +44,4 @@ $ python teams.py # for teams notification
 - The dialog window will present a webhook URL, copy it
 - Replace the copied webhook URL in constants.py for constant ```TEAMS_WEBHOOK```
 
-Note - As of now, this script get you alerts only for next two consicutive days and only for two cities - Hyderabad &  Rengareddy. Feel free to change the city_ids, city_id information is available [here](https://github.com/inovizz/cowin-notifier-hyderabad/blob/master/states_ids.json).
+Note - As of now, this script get you alerts only for next two consicutive days and only for two cities - Hyderabad &  Rengareddy. Feel free to change the city_ids, city_id information is available [here](https://apisetu.gov.in/public/marketplace/api/cowin).
